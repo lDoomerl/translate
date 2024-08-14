@@ -1,6 +1,6 @@
 # Meltarion Network Resource Pack
 
-![Meltarion Network]([https://your-image-link.com/banner.png](https://i.ibb.co/3BssJst/asdasdsadaasdsdad-ezgif-com-video-to-gif-converter.gif](https://i.ibb.co/ssqwhvL/Unti22222.png)) <!-- Здесь можно вставить баннер или логотип -->
+![Meltarion Network]([https://your-image-link.com/banner.png](https://i.ibb.co/ssqwhvL/Unti22222.png)) <!-- Здесь можно вставить баннер или логотип -->
 
 Добро пожаловать в репозиторий ресурс-пака для сервера **Meltarion Network**!
 
