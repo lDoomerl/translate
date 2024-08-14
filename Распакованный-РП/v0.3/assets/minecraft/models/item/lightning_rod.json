@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:block/lightning_rod",
+  "textures": {
+    "layer0": "minecraft:block/lightning_rod"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/1tier/key"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/2tier/key"
+    }
+  ]
+}

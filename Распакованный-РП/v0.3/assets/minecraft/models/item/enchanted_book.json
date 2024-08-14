@@ -1,0 +1,86 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/enchanted_book"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/1tier/fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/1tier/cold"
+    },
+		{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/1tier/electro"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/1tier/spirit"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/2tier/fire"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/2tier/firea"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/2tier/cold"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:item/2tier/colda"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:item/2tier/electro"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "minecraft:item/2tier/electroa"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:item/2tier/soul"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:item/2tier/soula"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 99
+      },
+      "model": "minecraft:item/tutorial/tutorbook"
+    }
+  ]
+}
